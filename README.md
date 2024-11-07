@@ -10,11 +10,10 @@ The objective: <br>
 - Java / Sapring Boot backend.
 - Storage in MySQL database.
 - Authentication with Spring Security.
-- Integration Tests.
 - JPA
 
 # Class Diagram
-https://github.com/ES-IH-JAVAFT-JAN23/Final-Alvaro-Ledesma/blob/master/Diagrama%20de%20clases.pdf
+https://github.com/7ldsma/Bank-REST-API-/blob/main/Diagrama%20de%20clases.pdf
 
 # Methods / Http Requests
 Admins Can:<br>
@@ -26,9 +25,6 @@ Holders can:<br>
 -> Holders can access their accounts balances.<br>
 -> Execute money transfers with their secret key.<br>
 Routes are currently public.<br>
-
-# Testing
-Testing has been executed for the different methods.
 
 # Process
 - Develop UML class diagram.<br>
